@@ -1,2 +1,5 @@
 # classrom_sec02
-เพื่อการศึกษาใช้ Github
+เพื่อการศึกษาการใช้ Github
+
+## test Readme
+ทดสอบการ Commit
